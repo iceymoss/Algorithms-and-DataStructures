@@ -1,4 +1,4 @@
-package alg
+package ArrayAndString
 
 func AergeAlternately(word1 string, word2 string) string {
 	res := make([]byte, len(word1)+len(word2))

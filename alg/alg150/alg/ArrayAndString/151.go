@@ -1,4 +1,4 @@
-package alg
+package ArrayAndString
 
 //本题的核心：1.将字符串去冗余空格；2.反正字符串；3.反转单词
 

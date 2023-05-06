@@ -1,4 +1,4 @@
-package alg
+package ArrayAndString
 
 // 快慢指针法
 func removeDuplicates(nums []int) int {
