@@ -1,6 +1,6 @@
 package ArrayAndString
 
-// 思路：两字符之间相互映射：例：edd -> add, ado -> aff
+// 思路：两字符之间相互映射：例：edd -> add => true, ado -> aff => false
 func isIsomorphic(s string, t string) bool {
 	if len(s) != len(t) {
 		return false
